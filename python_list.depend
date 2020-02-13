@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571325657 source:e:\codes\c++\porj\python_list\main.cpp
+	<iostream>
+	"python_list.h"
+	<vector>
+
+1576607513 e:\codes\c++\porj\python_list\python_list.h
+	<vector>
+	<iostream>
+	<cstdio>
+
+1572998273 source:e:\codes\c++\porj\python_list\python_list.cpp
+	"python_list.h"
+	<vector>
+
